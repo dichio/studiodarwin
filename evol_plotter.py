@@ -8,7 +8,7 @@ Created on Sat Nov  5 15:35:03 2022
 
 import os,sys
 import numpy as np
-os.chdir('/Users/vito.dichio/ownCloud/mypastprojects/2020_studiodarwin')
+os.chdir('your/path')
 import matplotlib.pyplot as plt
 import scipy.io
 import seaborn as sns
