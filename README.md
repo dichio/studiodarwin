@@ -3,7 +3,7 @@
 README.md
 * **Author**: Vito Dichio
 * **email**: dichio.vito@gmail.com
-* **Last Modified**: 24 Apr. 2021
+* **Last Modified**: 24 March 2023
 
 Source code for Dichio, V., Zeng, H. L., & Aurell, E. (2021). Statistical Genetics and Direct Coupling Analysis in and out of Quasi-Linkage Equilibrium. Reports on Progress in Physics.** (2021).
 
